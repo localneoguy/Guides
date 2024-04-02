@@ -10,16 +10,17 @@ tags:
     - money
 ```
 
-A pretty good money making arrived with one of the latest End Updates. Ender Nodes or Shiny Blocks were updated to have
-more drops and the chance to have ender mites spawn which now drop Mite gel.
+In the latest End Update, a new money-making opportunity has emerged with the introduction of Ender Nodes or Shiny Blocks. These blocks have been updated to offer improved drops and the chance for Ender mites to spawn, dropping valuable Mite gel. This gel can be sold for 2000 coins each to NPC, or players can craft Mixed Mite gel for slightly higher returns from selling to Bazzar.
+Here's a step-by-step guide to get started:
 
-To do this, is quite simple grab yourself a decent pickaxe like a Stonk or even a mithril pickaxe and head into the End
-island. All of the nodes are located in the obsidian and endstone walls/floors all around the main area of the End
-island. They tend to spawn more often towards the top of the island and less as you go lower towards the Dragon area (
-they don't spawn in the dragon egg area).
+1.Preparation: Equip yourself with a pickaxe that has a Breaking Power of 4 or higher. This is essential as Ender Nodes typically spawn as obsidian, which requires a Breaking power 4 or above pickaxe to break.
+2.Locating Ender Nodes: Ender Nodes spawns as End Stone or Obsidian. These blocks emit distinct purple particles, making them easy to spot amidst the obsidian and endstone walls and floors. They're commonly found scattered around the main area of the End island.
+3.Breaking Ender Nodes: Once you've spotted an Ender Node, simply use your pickaxe to break it. This action will yield various drops, including the Ender Mite spawns which drops Mite gel!
+4.Selling or Crafting: You have two options here. You can either sell the Mite gel directly to NPC vendors for 2000 coins each, providing a straightforward way to earn coins. Alternatively, you can craft Mixed Mite gel by combining 160 of Mite gel. While this requires more effort, it can yield slightly higher returns when sold to Bazzar.
+5.Improving Efficiency: To streamline your farming process, consider using mods like Soopy, which highlight Ender Nodes, making them easier to locate and harvest efficiently.
 
-Look for these blocks, they stand out by glowing with purple particles, simply break them and you'll be rewarded with
-the following:
+
+Here is a Ender Node's Loot Table for both types,
 
 END STONE LOOT
 
@@ -52,12 +53,9 @@ OBSIDIAN LOOT
 | Magical Rune              | 1      | 2.62%       | 120     |
 | Shrimp The Fish           | 1      | 0.17%       | 120     |
 
-If you hit the Nest Endermite, a few Endermites will pop out and upon killing you'll be rewarded with Mite Gel which
-sells for 2000 coins to an NPC. This is what will make you the majority of your money, the Ender equipment also sells
-for 10000 coins to an NPC.
+In summary, this method offers an excellent opportunity for players, especially those in the early stages of the game or those seeking alternative income sources. Ironman players and Bingo enthusiasts, in particular, can benefit from this method as it provides a reliable source of coins. With potential earnings averaging 2-3 million coins per hour, it's definitely worth exploring for players looking to boost their in-game wealth at early game.
 
-This is a great early game money making method and is usually not that contested. Great coin for Ironman players and
-Bingo enjoyers also.
+
 
 FAQ
 
@@ -70,3 +68,7 @@ How to make money end nodes?
 How mine end nodes?
 
 Where are end nodes?
+
+Credits - lxaoen/catboyneo (typing)
+          Skykings Guild (information)
+          Jack ( Help! I am locked in his basement )
