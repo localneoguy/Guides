@@ -32,7 +32,7 @@ Upon spawning, the entrance to the nest is closed and can be opened with melee d
 players in to fight the dragon.
 
 Ender Crystals appear which once a dragon is within range and “connected” it'll heal the dragon a small percentage per
-second. Try and break these as the crystal drop themselves is worth some money on the AH and is a crafting recipe.
+second. Try and break these as the crystal drop themselves is worth some money on the BZ and is a crafting recipe.
 
 Each Dragon has a set of abilities to damage the players, don't worry about these too much as they are pretty
 underwhelming and easy to avoid. Each Dragon type has a set amount of HP. But the gear used is the same which I will
@@ -41,7 +41,7 @@ show some basic, mid and high end potential load outs for:
 ### Early
 - Full Ender Set with Equipment  
 - Dragon Shortbow with T5 Enchants  
-- Any Damage pet, Griffin, Skeleton etc  
+- Any Damage pet, Skeleton etc  
 - As many talisman as possible using any damage power stone.
 
 You won't do much damage to reach top 3 but it is possible and you will at least do enough to get some loot.
@@ -49,15 +49,15 @@ You won't do much damage to reach top 3 but it is possible and you will at least
 ### Mid
 - 3/4 Shadow Assassin w/ Tarantula Helmet or
 - 2/4 Shadow Assassin with 2/4 Terror (Boots and Helmet)
-    - the Terror option is pretty good as you get an extra arrow per piece. (Necron is fine of course if you can afford it)  
+    - the Terror option is pretty good as you get an extra arrow per piece, try to get terror as its just 2-3m on ah . 
 - JuJu Shortbow with as many T6 Enchants
     - For Dragons Swarm is good but I'd just keep Soul Eater as this is the best overall.
 - Precise/Spiritual for reforge.  
-- Any Damage pet, Griffin, Skeleton, Lion etc  
+- Any Damage pet.
 - 250 MP minimum and Silky/Bloody powerstone.
 
 ### Late
-- Warden Helmet and Necron/Fairly high level of Crimson  
+- Warden Helmet and Necron/Fairly high level of Terror.
 - Terminator Shortbow  
 - Ender Dragon or Golden Dragon Pet
 
